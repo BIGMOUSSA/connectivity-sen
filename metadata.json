@@ -26,7 +26,7 @@
     "mobile"
   ],
   "admin_level": "ADM2",
-  "generated": "2026-09-30T09:24:36",
+  "generated": "2026-09-30T09:46:33",
   "sources": {
     "ookla": {
       "name": "Ookla Speedtest Open Data",
@@ -61,15 +61,15 @@
     }
   },
   "headline": {
-    "d_median_pop": 35.71833002677598,
-    "d_median_tile": 31.034,
-    "pct_above_bb": 81.28823463799343,
-    "pct_above_hi": 61.28432739296148,
-    "pop_coverage_pct": 30.80343216861794,
-    "area_coverage_pct": 0.19267683505366906,
-    "lat_median_pop": 19.0
+    "d_median_pop": 17.776554214250385,
+    "d_median_tile": 24.467,
+    "pct_above_bb": 80.98371162152401,
+    "pct_above_hi": 12.475317217345825,
+    "pop_coverage_pct": 0.2370195449876672,
+    "area_coverage_pct": 0.0007119864487454521,
+    "lat_median_pop": 49.34391321563765
   },
   "population_total": 18598506.32341294,
-  "connectivity_gini": 0.5596179546125536,
+  "connectivity_gini": 0.19207622360239662,
   "licence_of_this_product": "CC BY-NC-SA 4.0 (inherited from Ookla, share-alike)"
 }
