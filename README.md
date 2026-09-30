@@ -17,14 +17,14 @@ the top-right corner. *Le tableau de bord est bilingue : utilisez le sélecteur 
 | Indicator · Indicateur | Value · Valeur |
 |---|---|
 | Population (2025, WorldPop) | 18,598,506 |
-| Median mobile download **per person** · Débit médian **par habitant** | **17.8 Mbps** |
-| Median download per measured tile · Débit médian par carreau mesuré | 24.5 Mbps |
-| Population ≥ 10 Mbps · Population ≥ 10 Mbit/s | 81.0% |
-| Population measured · Population mesurée | 0.2% |
+| Median mobile download **per person** · Débit médian **par habitant** | **30.2 Mbps** |
+| Median download per measured tile · Débit médian par carreau mesuré | 25.2 Mbps |
+| Population ≥ 10 Mbps · Population ≥ 10 Mbit/s | 91.1% |
+| Population measured · Population mesurée | 0.8% |
 | Land area measured · Territoire mesuré | 0.00% |
-| Connectivity Gini · Gini de connectivité | 0.192 |
-| Median latency · Latence médiane | 49 ms |
-| ADM2 units · Unités ADM2 | 4 |
+| Connectivity Gini · Gini de connectivité | 0.336 |
+| Median latency · Latence médiane | 19 ms |
+| ADM2 units · Unités ADM2 | 11 |
 
 ## Contents · Contenu
 
@@ -67,7 +67,7 @@ périurbain ≥ 300, rural en dessous).
 
 **EN.** (1) Speedtest measurements are user-initiated and self-selected: no probability sample, no
 design weights. (2) Absence of measurement is not absence of service —
-100% of the population lives in a cell with no test in the reference
+99% of the population lives in a cell with no test in the reference
 quarter. (3) Device and tariff effects cannot be separated from network performance. (4) Only
 0.00% of the land area is measured and tests are heavily concentrated, so
 unweighted national averages are biased upward. (5) WorldPop is a modelled surface, not a census,
@@ -77,7 +77,7 @@ unless validated against operator or survey data.
 
 **FR.** (1) Les mesures Speedtest sont lancées par les utilisateurs et auto-sélectionnées : ni
 échantillon probabiliste, ni pondération de sondage. (2) L'absence de mesure n'est pas l'absence de
-service — 100 % de la population vit dans une cellule sans aucun
+service — 99 % de la population vit dans une cellule sans aucun
 test sur le trimestre de référence. (3) Les effets du terminal et du forfait ne peuvent être séparés
 de la performance du réseau. (4) Seuls 0.00 % du territoire sont mesurés
 et les tests sont très concentrés : les moyennes nationales non pondérées sont biaisées vers le
