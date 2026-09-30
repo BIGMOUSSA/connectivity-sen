@@ -1,0 +1,70 @@
+{
+  "title": {
+    "fr": "Senegal — Connectivité et population",
+    "en": "Senegal — Connectivity and Population"
+  },
+  "iso3": "SEN",
+  "country": "Senegal",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "reference_period": "2026Q2",
+  "quarters_processed": [
+    "2026Q2",
+    "2026Q1",
+    "2025Q4",
+    "2025Q3"
+  ],
+  "services": [
+    "fixed",
+    "mobile"
+  ],
+  "admin_level": "ADM2",
+  "generated": "2026-09-30T09:12:46",
+  "sources": {
+    "ookla": {
+      "name": "Ookla Speedtest Open Data",
+      "licence": "CC BY-NC-SA 4.0",
+      "url": "https://github.com/teamookla/ookla-open-data",
+      "resolution": "Web Mercator z16 (~611 m at the equator)"
+    },
+    "worldpop": {
+      "name": "WorldPop 2025 1km",
+      "product": "Global 2 R2025A",
+      "release": "R2025A",
+      "is_projection": true,
+      "licence": "CC BY 4.0",
+      "url": "https://www.worldpop.org"
+    },
+    "geoboundaries": {
+      "name": "geoBoundaries gbOpen",
+      "licence": "CC BY 4.0",
+      "url": "https://www.geoboundaries.org"
+    }
+  },
+  "methods": {
+    "weighting": "population-weighted median; cell population shared equally among the tiles whose centroid falls in the cell",
+    "coverage": "share of population in 1 km cells containing >= 1 measured tile",
+    "thresholds_mbps": {
+      "broadband": 10,
+      "high_quality": 25
+    },
+    "settlement_density_thresholds": {
+      "urban": 1500,
+      "periurban": 300
+    }
+  },
+  "headline": {
+    "d_median_pop": 35.71833002677598,
+    "d_median_tile": 31.034,
+    "pct_above_bb": 81.28823463799343,
+    "pct_above_hi": 61.28432739296148,
+    "pop_coverage_pct": 30.80343216861794,
+    "area_coverage_pct": 0.19267683505366906,
+    "lat_median_pop": 19.0
+  },
+  "population_total": 18598506.32341294,
+  "connectivity_gini": 0.5596179546125536,
+  "licence_of_this_product": "CC BY-NC-SA 4.0 (inherited from Ookla, share-alike)"
+}
