@@ -24,15 +24,15 @@ the top-right corner. *Le tableau de bord est bilingue : utilisez le sélecteur 
 | Land area measured · Territoire mesuré | 0.00% |
 | Connectivity Gini · Gini de connectivité | 0.336 |
 | Median latency · Latence médiane | 19 ms |
-| ADM2 units · Unités ADM2 | 11 |
+| ADM1 units · Unités ADM1 | 7 |
 
 ## Contents · Contenu
 
 | File | Description |
 |---|---|
 | `index.html` | Bilingual interactive dashboard · Tableau de bord interactif bilingue |
-| `connectivity_ADM2_SEN_2026Q2.csv` | Indicators by administrative unit · Indicateurs par unité administrative |
-| `connectivity_ADM2_SEN_2026Q2.geojson` | Same, with geometry · Idem, avec géométrie |
+| `connectivity_ADM1_SEN_2026Q2.csv` | Indicators by administrative unit · Indicateurs par unité administrative |
+| `connectivity_ADM1_SEN_2026Q2.geojson` | Same, with geometry · Idem, avec géométrie |
 | `national_summary_SEN_2026Q2.csv` | National aggregates · Agrégats nationaux |
 | `tiles_SEN_2026Q2.parquet` | Tile-level micro-file · Fichier détail au carreau |
 | `settlement_SEN_2026Q2.csv` | Urban / peri-urban / rural · Urbain / périurbain / rural |
