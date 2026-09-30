@@ -14,14 +14,19 @@
     "2026Q2",
     "2026Q1",
     "2025Q4",
-    "2025Q3"
+    "2025Q3",
+    "2025Q2",
+    "2025Q1",
+    "2024Q4",
+    "2024Q3",
+    "2024Q2"
   ],
   "services": [
     "fixed",
     "mobile"
   ],
   "admin_level": "ADM2",
-  "generated": "2026-09-30T09:12:46",
+  "generated": "2026-09-30T09:24:36",
   "sources": {
     "ookla": {
       "name": "Ookla Speedtest Open Data",
